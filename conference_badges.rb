@@ -18,5 +18,5 @@ def assign_rooms(names)
   list
 end
 
-def printer
+def printer(names)
 end
