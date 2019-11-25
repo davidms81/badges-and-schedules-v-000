@@ -12,6 +12,7 @@ end
 
 def assign_rooms(names)
   list = []
+  counter = 1
   names.each do |name|
     list << "Hello, #{name}! You'll be assigned to room #{1}!"
   end
